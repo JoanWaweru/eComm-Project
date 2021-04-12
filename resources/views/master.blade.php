@@ -27,7 +27,7 @@
         padding-top: 100px;
     }
     .img.slider-img{
-        height: 400px !important
+        height: 400px !important;
         
     }
     .custom-product{
@@ -35,6 +35,16 @@
     }
     .slider-text{
         color: #000 !important;
+    }
+    .trending-image{
+        height: 100px;
+    }
+    .trending-item{
+        float: left;
+        width: 50%;
+    }
+    .trending-wrapper{
+        margin: 30px;
     }
 </style>
 <!-- <script>
